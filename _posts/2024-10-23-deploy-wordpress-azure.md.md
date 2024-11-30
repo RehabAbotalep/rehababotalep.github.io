@@ -4,6 +4,7 @@ title: "Step-by-Step Guide: Deploying or Restoring WordPress on Azure VM"
 date: 2024-10-23 22:00:05 +0100
 categories: [Blogging, Demo]
 tags: [azure, wordpress] 
+comments: true
 ---
 
 **Looking to deploy or restore your WordPress site on an Azure VM?** This comprehensive guide walks you through every detail of setting up a LAMP stack, configuring essential components, and deploying or restoring WordPress on an Azure-based Ubuntu VM. Whether you're restoring from a backup or setting up a fresh WordPress instance, these steps ensure a smooth and efficient process.

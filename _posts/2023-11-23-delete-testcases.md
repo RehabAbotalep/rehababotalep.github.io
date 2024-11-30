@@ -4,6 +4,7 @@ title:  "PowerShell Script: Automate Test Cases Deletion in Azure DevOps"
 date:   2023-11-23 07:35:05 +0100
 categories: [Blogging, Script]
 tags: [azure-devops, test-cases, powershell-script]
+comments: true
 ---
 
 While working on a particular use case, I encountered a requirement to delete all Test Cases within my Azure DevOps project. Unfortunately, the user interface (UI) does not provide an option to accomplish this task. Upon exploring the available API options, I discovered that there is no direct API for deleting multiple Test Cases at once; only one Test Case can be deleted at a time.

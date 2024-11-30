@@ -4,6 +4,7 @@ title:  "PowerShell Script: Adding Members to MS Teams private Channels by Tag"
 date:   2024-07-15 01:00:05 +0100
 categories: [Blogging, Script]
 tags: [azure, ms-teams, powershell-script, productivity] 
+comments: true
 ---
 
 I was working on a real use case scenario to add a large list of users to multiple private channels in MS Teams.
