@@ -3,9 +3,9 @@ layout: post
 title: "PowerShell Script: Automate Field Mapping in Azure DevOps Migration"
 date: 2025-04-10 13:00:05 +0100
 categories: [Blogging, Script]
-tags: [powershell-script, productivity, azure-devops]
-comments: true
+tags: [powershell script, productivity, azure devops, migration]
 ---
+
 While working on real projects that involved migrating work items between Azure DevOps projects, I ran into a repetitive and time-consuming step: mapping fields between the source and target.
 
 The tool I used [azure-devops-migration-tools](https://github.com/nkdAgility/azure-devops-migration-tools), supports field mapping through `FieldMergeMap`, but figuring out which fields are missing and writing that config manually isn’t fun, especially if you’re dealing with a lot of custom fields.

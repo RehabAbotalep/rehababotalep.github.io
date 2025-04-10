@@ -2,9 +2,8 @@
 layout: post
 title:  "Migrate TFVC to Git in Azure DevOps"
 date:   2023-09-05 19:23:05 +0100
-categories: [Blogging, Post]
+categories: [DevOps & Automation, Post]
 tags: [tfvc, migration]
-comments: true
 ---
 
 Migrating from TFVC to Git in Azure DevOps can bring numerous advantages, including better collaboration, easier branching and merging, and improved performance. With Git's distributed nature, teams can work more independently and efficiently, while still having full visibility into changes and history.

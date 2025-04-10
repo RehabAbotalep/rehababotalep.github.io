@@ -3,9 +3,8 @@ layout: post
 title:  "How to Pass GitHub Actions Certification Exam: My Own Certification Journey"
 date:   2024-10-18 02:25:05 +0100
 categories: [Blogging, Post]
-tags: [github, certifications]
+tags: [github, certifications, github actions]
 pin: true
-comments: true
 ---
 
 Earlier this year (2024), GitHub shared some exciting news: certifications that were once only for their employees and partners are now open to everyone worldwide!

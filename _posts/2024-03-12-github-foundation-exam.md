@@ -5,7 +5,6 @@ date:   2024-03-12 02:25:05 +0100
 categories: [Blogging, Post]
 tags: [github, certifications]
 pin: true
-comments: true
 ---
 
 Earlier this year (2024), GitHub shared some exciting news: certifications that were once only for their employees and partners are now open to everyone worldwide!

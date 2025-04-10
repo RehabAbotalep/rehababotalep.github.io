@@ -4,7 +4,6 @@ title:  "Step-by-Step Guide: Deploying or Restoring Question2Answer on Azure VM"
 date:   2024-09-20 07:00:05 +0100
 categories: [Blogging, Demo]
 tags: [azure, question2answer] 
-comments: true
 ---
 
 This guide provides detailed instructions for setting up a testing environment on Azure by deploying or restoring the Question2Answer (Q2A) application on an Ubuntu Virtual Machine (VM). It covers preparing a LAMP stack environment, configuring necessary components, and deploying the Q2A application. Follow these steps to ensure a seamless deployment and configuration for testing purposes.

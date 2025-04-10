@@ -3,8 +3,7 @@ layout: post
 title:  "Migrating Inherited Process in Azure DevOps"
 date:   2023-10-21 16:40:05 +0100
 categories: [Blogging, Post]
-tags: [azure-devops, process-migrator, migration]
-comments: true
+tags: [azure devops, process migrator, migration]
 ---
 
 In this post, we'll explore how to migrate a customized inherited process from one Azure DevOps organization to another. We'll walk through the process using the powerful [process-migrator](https://github.com/microsoft/process-migrator) tool, developed by Microsoft.
