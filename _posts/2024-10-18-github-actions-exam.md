@@ -2,7 +2,7 @@
 layout: post
 title:  "How to Pass GitHub Actions Certification Exam: My Own Certification Journey"
 date:   2024-10-18 02:25:05 +0100
-categories: [Blogging, Post]
+categories: [DevOps & Automation, Post]
 tags: [github, certifications, github actions]
 pin: true
 ---

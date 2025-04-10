@@ -2,7 +2,7 @@
 layout: post
 title:  "Step-by-Step Guide: LAMP Stack Setup on Azure for Q2A and WordPress Hosting"
 date:   2024-09-04 20:00:05 +0100
-categories: [Blogging, Demo]
+categories: [DevOps & Automation, Demo]
 tags: [azure, question2answer, wordpress] 
 ---
 

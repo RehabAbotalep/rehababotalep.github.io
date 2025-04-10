@@ -2,7 +2,7 @@
 layout: post
 title: "Step-by-Step Guide: Deploying or Restoring WordPress on Azure VM"
 date: 2024-10-23 22:00:05 +0100
-categories: [Blogging, Demo]
+categories: [DevOps & Automation, Demo]
 tags: [azure, wordpress] 
 ---
 

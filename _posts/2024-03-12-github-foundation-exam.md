@@ -2,7 +2,7 @@
 layout: post
 title:  "How to Pass GitHub Foundations Certification Exam: My Own Certification Journey"
 date:   2024-03-12 02:25:05 +0100
-categories: [Blogging, Post]
+categories: [DevOps & Automation, Post]
 tags: [github, certifications]
 pin: true
 ---

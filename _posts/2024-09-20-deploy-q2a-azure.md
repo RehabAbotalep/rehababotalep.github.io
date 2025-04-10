@@ -2,7 +2,7 @@
 layout: post
 title:  "Step-by-Step Guide: Deploying or Restoring Question2Answer on Azure VM"
 date:   2024-09-20 07:00:05 +0100
-categories: [Blogging, Demo]
+categories: [DevOps & Automation, Demo]
 tags: [azure, question2answer] 
 ---
 
