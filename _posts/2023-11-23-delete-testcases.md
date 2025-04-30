@@ -116,14 +116,14 @@ Remove-AllAzureDevOpsTestCases -OrganizationUrl $organizationUrl -ProjectName $p
 
 The last section of the script calls `Remove-AllAzureDevOpsTestCases` with the specified organization URL, project name, and PAT. This triggers the removal of all test cases in the specified Azure DevOps project.
 
-> 1. Ensure that you have the necessary permissions in Azure DevOps to query and delete test cases.
+> Ensure that you have the necessary permissions in Azure DevOps to query and delete test cases.
 {: .prompt-info }
 
-> 2. Make sure to replace the placeholder values for $organizationUrl, $projectName, and $pat with your actual Azure DevOps organization URL, project name, and PAT before running the script.
+> Make sure to replace the placeholder values for $organizationUrl, $projectName, and $pat with your actual Azure DevOps organization URL, project name, and PAT before running the script.
 {: .prompt-info }
 
-> 3. Always be cautious when running scripts, especially those that modify or delete data. Test the script in a safe environment before using it in a production setting.
-{: .prompt-info }
+> Always be cautious when running scripts, especially those that modify or delete data. Test the script in a safe environment before using it in a production setting.
+{: .prompt-danger }
 
 ## References
 
