@@ -3,7 +3,7 @@
 In this space, I'll be sharing my personal journey, challenges, and experiences in the world of DevOps.
 
 |[How GitHub Handles Attachments in Issues, PRs, Discussions, and Wikis](https://rehababotalep.github.io/posts/github-attachments/)
-|----------|
+|:---:|
 |[PowerShell Script: Automate Field Mapping in Azure DevOps Migration](https://rehababotalep.github.io/posts/migration-field-mapping/)|
 |[How to Pass GitHub Actions Certification Exam: My Own Certification Journey](https://rehababotalep.github.io/posts/github-actions-exam/)|
 |[How to Pass GitHub Foundations Certification Exam: My Own Certification Journey](./_posts/2024-03-12-github-foundation-exam.md)|
