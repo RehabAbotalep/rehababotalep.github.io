@@ -8,7 +8,7 @@ comments: true
 ---
 
 I’ve been working extensively on GitHub Discussions and frequently need to upload images. During this process, I came across some questions: Where exactly are these images stored, and why do I see different links one in the discussion's markdown and another when clicking on the image?
-Curious to understand more, I did some investigation, and in this blog post, I share my findings.
+To understand more, I did some investigation, and in this blog post, I share my findings.
 
 This blog post explains how attachments (such as images, logs, or other files) work when added to GitHub Issues, Pull Requests (PRs), Discussions, and Wikis.
 
