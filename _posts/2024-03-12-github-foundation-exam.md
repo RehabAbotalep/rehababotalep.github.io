@@ -4,7 +4,6 @@ title:  "How to Pass GitHub Foundations Certification Exam: My Own Certification
 date:   2024-03-12 02:25:05 +0100
 categories: [DevOps & Automation, Post]
 tags: [github, certifications]
-pin: true
 ---
 
 Earlier this year (2024), GitHub shared some exciting news: certifications that were once only for their employees and partners are now open to everyone worldwide!
