@@ -55,6 +55,14 @@ This URL format is used for **privately accessible** attachments uploaded to **p
 - **Access**: Only users with **authenticated access** to the private repository can view the file.
 - **Example**: `https://private-user-images.githubusercontent.com/xxxxxxxx/xxxxxxxxx-xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx`
 
+> If you try to open the generated link in markdown `https://github.com/user-attachments/assets/<unique-id>` directly in a browser, GitHub will generate a temporary link to an Amazon S3 storage location that includes a token expiring shortly after.  
+This means:  
+- Only users with proper access can generate a valid link.  
+- Even if someone obtains the S3 link, it will stop working after a short time due to token expiration.
+This approach adds a strong layer of security by ensuring that access to attachments is tightly controlled and links cannot be reused indefinitely.
+{: .prompt-tip }
+
+
 ## Do Attachments Count Toward Repository Size?
 
 No, attachments uploaded to Issues, Pull Requests, Discussions, or Wikis do not count toward the **100 GB** storage limit for the Git repository. They are stored separately in GitHub's CDN and are not part of the Git history or LFS (Large File Storage) system.
