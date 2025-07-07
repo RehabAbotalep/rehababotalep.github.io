@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "PowerShell Script: List Work Items Moved Between Projects in Azure DevOps"
-date:   2023-09-22 07:20:05 +0100
+date:   2024-07-22 07:20:05 +0100
 categories: [DevOps & Automation, Script]
 tags: [azure devops, powershell script, migration]
 ---
