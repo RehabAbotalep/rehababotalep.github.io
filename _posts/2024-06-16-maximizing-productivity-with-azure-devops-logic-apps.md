@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Maximizing Productivity with Azure DevOps & Logic Apps"
-date:   2024-04-21 07:40:05 +0100
+date:   2024-06-16 07:40:05 +0100
 categories: [DevOps & Automation, Session]
 tags: [azure devops, logic apps, productivity]
 ---
