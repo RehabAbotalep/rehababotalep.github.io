@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "PowerShell Script: Automate Test Cases Deletion in Azure DevOps"
-date:   2023-11-23 07:35:05 +0100
+date:   2024-11-23 07:35:05 +0100
 categories: [DevOps & Automation, Script]
 tags: [azure devops, test cases, powershell]
 ---
