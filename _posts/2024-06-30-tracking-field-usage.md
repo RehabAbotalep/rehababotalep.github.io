@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "PowerShell Script: Tracking Field Usage Across Azure DevOps Projects"
-date:   2024-06-01 23:00:05 +0100
+date:   2024-06-30 23:00:05 +0100
 categories: [DevOps & Automation, Script]
 tags: [azure devops, work items, powershell, productivity] 
 ---
