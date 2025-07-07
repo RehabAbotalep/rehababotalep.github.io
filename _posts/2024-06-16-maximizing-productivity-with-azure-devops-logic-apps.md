@@ -4,6 +4,7 @@ title:  "Maximizing Productivity with Azure DevOps & Logic Apps"
 date:   2024-06-16 07:40:05 +0100
 categories: [DevOps & Automation, Session]
 tags: [azure devops, logic apps, productivity]
+pin: true
 ---
 
 In today's fast-paced business landscape, maximizing productivity is crucial for staying competitive and delivering outstanding results.

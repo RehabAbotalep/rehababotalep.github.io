@@ -5,6 +5,7 @@ date: 2025-04-10 13:00:05 +0100
 categories: [DevOps & Automation, Script]
 tags: [powershell, productivity, azure devops, migration]
 comments: true
+pin: true
 ---
 
 While working on real projects that involved migrating work items between Azure DevOps projects, I ran into a repetitive and time-consuming step: mapping fields between the source and target.
