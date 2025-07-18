@@ -5,7 +5,6 @@ date: 2025-05-27 10:00:05 +0100
 categories: [DevOps & Automation, Post]
 tags: [github, sub-issues]
 comments: true
-pin: true
 ---
 
 GitHub introduced **sub-issues** at the beginning of 2025, allowing users to break down large issues into smaller, more manageable tasks. This hierarchy makes it easier to track progress and organize work, especially for complex projects.
