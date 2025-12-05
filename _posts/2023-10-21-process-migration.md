@@ -162,5 +162,3 @@ The exported JSON and log files are located within the `Output` folder, in the s
 ![Output Folder Location](/assets/img/process-migration/16-output-folder.png)
 
 ![View from Inside the Output Folder](/assets/img/process-migration/17-output-from-inside.png)
-
-**[⬆ Back To Top](#in-this-post)**
