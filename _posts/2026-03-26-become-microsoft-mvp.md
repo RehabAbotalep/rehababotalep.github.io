@@ -232,3 +232,5 @@ The MVP award is not the destination — it is a reflection of the journey you h
 To learn more, visit the official [Microsoft MVP Program page](https://mvp.microsoft.com/). 
 
 You can also check out [my MVP profile](https://mvp.microsoft.com/en-US/MVP/profile/110fcd4f-e4d7-4a98-b711-da50cbf31797) to see what an MVP profile looks like in practice.
+
+If you are looking for mentoring or have any questions about the MVP journey, feel free to reach out to me on LinkedIn — I am always happy to help!
