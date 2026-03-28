@@ -69,7 +69,7 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add docs/
-          git diff --cached --quiet || git commit -m "Export discussions to Markdown"
+          git diff --cached --quiet || git commit -m "$(date +%Y-%m-%d) - Export discussions to Markdown"
           git push
 ```
 
