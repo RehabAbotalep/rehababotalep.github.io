@@ -83,19 +83,17 @@ The only required input is `token` — a fine-grained personal access token with
 
    ![Create a new fine-grained PAT](/assets/img/discussion-exporter/01-pat-create.png)
 
-2. Enter a **Token name**, select the **Resource owner**, and set an **Expiration** date.
-
-3. Under **Repository access**, choose **Only select repositories** and pick the repository you want to export discussions from.
+2. Enter a **Token name**, select the **Resource owner**, set an **Expiration** date, and under **Repository access**, choose **Only select repositories** and pick the repository you want to export discussions from.
 
    ![PAT Info](/assets/img/discussion-exporter/02-pat-info.png)
 
-4. Under **Permissions**, expand **Repository permissions** and grant `Discussions` **read-only** access.
+3. Under **Permissions**, expand **Repository permissions** and grant `Discussions` **read-only** access.
 
    ![Set Discussions read-only permission](/assets/img/discussion-exporter/03-add-permissions.png)
 
    ![Permission](/assets/img/discussion-exporter/04-permissions.png)
 
-5. Click **Generate token**, copy it, and add it as a **repository secret** (e.g. `GH_PAT`) under **Settings > Secrets and variables > Actions**.
+4. Click **Generate token**, copy it, and add it as a **repository secret** (e.g. `GH_PAT`) under **Settings > Secrets and variables > Actions**.
 
    ![Add token as a repository secret](/assets/img/discussion-exporter/05-pat-secret.png)
 
