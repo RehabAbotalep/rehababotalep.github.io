@@ -12,6 +12,7 @@
 
 | Title | Tags |
 |-------|------|
+| [Export GitHub Discussions to Your Repo with a Single Action](https://rehababotalep.github.io/posts/discussion-exporter/) | `github` `github-actions` `discussions` |
 | [Become a Microsoft MVP: Make Your Mark in Tech](https://rehababotalep.github.io/posts/become-microsoft-mvp/) | `microsoft mvp` `community` |
 | [Restrict Work Item Access to Azure DevOps Team Members](https://rehababotalep.github.io/posts/restrict-work-item-access/) | `azure devops` |
 | [Auto-Close Sub-Issues When Parent Issue Is Closed](https://rehababotalep.github.io/posts/auto-close-sub-issues/) | `github` `sub-issues` |
