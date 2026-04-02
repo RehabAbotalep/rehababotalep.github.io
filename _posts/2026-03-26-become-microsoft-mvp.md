@@ -41,6 +41,15 @@ The MVP community is truly global — with **over 4,000 MVPs** spread across **9
 
 ![Global](/assets/img/become-mvp/03-global-mvp.png)
 
+## Find MVPs in the Community
+
+You can explore MVP profiles from around the world on the [Microsoft MVP search page](https://mvp.microsoft.com/en-US/search?target=Profile&program=MVP). The directory lets you filter by:
+
+- **Country/Region**: Find MVPs near you or in a specific location.
+- **Award Category**: Browse by one of the 11 MVP award categories.
+- **Technology Area**: Narrow down to a specific technology you care about.
+
+Each profile showcases the MVP's contributions, social links, and areas of expertise — a great way to connect with experts, or simply get inspired by the community.
 
 ## MVP Award Categories
 
@@ -212,10 +221,13 @@ Microsoft recognizes individuals who make a meaningful impact in the tech commun
 
 1. **Contribute to the Community**: Start making an impact through any of the contribution activities outlined above — writing, speaking, mentoring, open source, or community organizing.
 2. **Build Visibility**: Share your work consistently across platforms such as social media, forums, and community events so your impact is visible to others.
-3. **Get Nominated**: MVPs are nominated by their peers or Microsoft employees.
+3. **Get Nominated**: MVPs are nominated by other MVPs or Microsoft FTEs (Full-Time Employees).
 4. **Apply for the Award**: Once nominated, you will receive an email with instructions on how to apply for the MVP award. The application process typically involves providing details about your contributions and impact in the community. Nominees have 45 days to complete the MVP Application.
 5. **Selection Process**: Microsoft reviews the applications and selects MVPs based on their contributions, impact, and alignment with the program's values. The decision can typically take up to 90 days after you submit your MVP application.
 6. **Receive the Award**: If selected, you will receive the MVP award, which is valid for one year. You can then enjoy the benefits and recognition that come with being an MVP.
+
+> The MVP award is an **annual award**. Each year, you must reapply and demonstrate your continued contributions and impact in the community to be renewed. There is no automatic renewal — sustained engagement and ongoing community activity are key to maintaining your MVP status year after year.
+{: .prompt-info }
 
 ## My Personal Tips
 - **Quality over quantity**: Focus on meaningful, well-crafted contributions rather than chasing volume. One impactful blog post or talk is worth more than a dozen rushed ones.
@@ -232,5 +244,3 @@ The MVP award is not the destination — it is a reflection of the journey you h
 To learn more, visit the official [Microsoft MVP Program page](https://mvp.microsoft.com/). 
 
 You can also check out [my MVP profile](https://mvp.microsoft.com/en-US/MVP/profile/110fcd4f-e4d7-4a98-b711-da50cbf31797) to see what an MVP profile looks like in practice.
-
-If you are looking for mentoring or have any questions about the MVP journey, feel free to reach out to me on LinkedIn — I am always happy to help!
