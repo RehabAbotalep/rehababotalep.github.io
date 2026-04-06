@@ -15,7 +15,7 @@ Before diving into what the Microsoft MVP program is, it is worth understanding 
 
 ## Microsoft Community Programs
 
-- **Microsoft Learn Student Ambassadors**: For students who want to amplify their impact by establishing themselves as mentors and leaders at their university or in their local community, while developing the technical skills and emotional intelligence needed to succeed.
+- **Microsoft Student Ambassadors**: For students who want to amplify their impact by establishing themselves as mentors and leaders at their university or in their local community, while developing the technical skills and emotional intelligence needed to succeed.
 - **Microsoft Most Valuable Professionals (MVPs)**: For technology professionals recognized as exceptional community leaders for their technical expertise, positive influence on those around them, and commitment to solving real-world challenges with cutting-edge technology.
 - **Microsoft Regional Directors**: For industry leaders and trusted advisors making significant contributions to their respective industries in technology, whose expertise and passion embodies Microsoft's mission to empower every person and every organization to achieve more.
 
