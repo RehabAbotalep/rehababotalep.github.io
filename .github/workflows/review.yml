@@ -29,7 +29,7 @@ jobs:
           copilot -p "
           Review the Jekyll blog post located at:
 
-          _posts/2026-03-28-discussion-exporter.md
+          _posts/2026-03-26-become-microsoft-mvp.md
 
           Act as a senior technical editor reviewing this article before publication.
 
