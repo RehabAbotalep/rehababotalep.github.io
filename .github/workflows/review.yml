@@ -1,0 +1,81 @@
+name: AI Blog Technical Reviewer
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  review-blog:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+
+      - name: Install GitHub Copilot CLI
+        run: npm install -g @github/copilot
+
+      - name: Review blog post
+        env:
+          COPILOT_GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+        run: |
+          copilot -p "
+          Review the Jekyll blog post located at:
+
+          _posts/2026-03-28-discussion-exporter.md
+
+          Act as a senior technical editor reviewing this article before publication.
+
+          Read the entire article and evaluate:
+
+          1. Technical Accuracy (score /10)
+          2. Readability (score /10)
+          3. Grammar & Writing (score /10)
+          4. Structure & Organization (score /10)
+          5. SEO Friendliness (score /10)
+          6. Code Examples
+          7. Missing Explanations
+          8. Beginner Friendliness
+
+          Then generate a markdown report with the following sections:
+
+          # AI Technical Review
+
+          ## Overall Score
+
+          ## Executive Summary
+
+          ## Strengths
+
+          ## Weaknesses
+
+          ## Suggested Improvements
+
+          ## Missing Topics
+
+          ## Diagram Suggestions
+
+          ## Final Publishing Recommendation
+
+          Save the report to review.md.
+          " \
+          --allow-tool="shell(*)" \
+          --allow-tool=write \
+          --no-ask-user
+
+      - name: Display review report
+        run: |
+          cat review.md >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Upload review report
+        uses: actions/upload-artifact@v4
+        with:
+          name: ai-blog-review
+          path: review.md
