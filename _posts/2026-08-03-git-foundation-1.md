@@ -123,7 +123,7 @@ The earliest version control systems worked only on your local machine.
 
 They kept track of changes to your files, allowing you to restore previous versions whenever you needed to. This was a huge improvement over manually creating ZIP files because you finally had some form of history.
 
-However, everything lived on one machine. If your computer failed, you lost that history. And since there was no shared repository, collaboration wasn't really possible.
+However, everything lived on a single machine. If that machine failed, you lost that history. And since there was no shared repository, collaboration wasn't really possible.
 
 One of the most well-known tools from this generation was **RCS (Revision Control System)**.
 
@@ -139,13 +139,13 @@ Although this was a big step forward, it introduced a new challenge.
 
 Since the server contained the only complete history of the project, it became a **single point of failure**. If the server was unavailable, developers couldn't synchronize their work, and in many cases they couldn't continue working normally.
 
-### Distributed Version Control Systems
+Centralized systems solved many collaboration problems, but they also introduced new ones. Those limitations eventually led to the next evolution of version control systems, and that's where Git comes in.
 
-This is where Git comes in.
+### Distributed Version Control Systems
 
 Instead of keeping the complete history on one central server, every developer has a full copy of the repository on their own machine.
 
-That means every clone contains the complete history of the project.
+In other words, every developer has their own complete copy of the repository—not just the latest version of the files, but the entire history of the project.
 
 This design has several advantages.
 
@@ -155,16 +155,20 @@ You also have much better protection against data loss. Since every developer ha
 
 The server is still useful for sharing changes between team members, but it is no longer the only place where the project's history exists.
 
-The difference becomes much easier to see when you compare the two approaches.
+The following diagram summarizes how version control systems evolved over time.
+
+![Version control evolution timeline showing local, centralized, and distributed systems](/assets/img/git-foundations/03-version-control-evolution.png)
+
+Notice how each generation addressed a limitation of the one before it. Git didn't replace the idea of version control it built on decades of evolution to make collaboration faster, safer, and more flexible.
+
+The difference between centralized and distributed version control becomes much easier to see when you compare them side by side.
 
 | Centralized Version Control | Distributed Version Control (Git) |
 | --------------------------- | --------------------------------- |
-| One central copy of the repository | Every developer has a complete copy |
+| One complete copy of the repository | Every developer has a complete copy |
 | Most operations require the server | Most operations work locally |
 | Server failure affects everyone | Developers can continue working offline |
 | Single point of failure | Multiple complete copies of the repository |
-
-![Version control evolution timeline showing local, centralized, and distributed systems](/assets/img/git-foundations/03-version-control-evolution.png)
 
 ## So, Why Was Git Created?
 
