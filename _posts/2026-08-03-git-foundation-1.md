@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Git Foundations #1 | Why Git? Version Control Explained for Beginners"
-date: 2026-08-03 03:00:05 +0100
+date: 2026-08-03 01:00:00 +0100
 categories: [DevOps & Automation, Post]
 tags: [git, version control, git foundation, beginner git, devops]
 comments: true
