@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "It All Started with a Typo (My MVP Journey)"
-date: 2026-08-03 10:00:05 +0100
+date: 2026-08-02 10:00:05 +0100
 categories: [Community]
 tags: [microsoft mvp, community, recognition]
 comments: true
