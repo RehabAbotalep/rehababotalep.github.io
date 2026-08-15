@@ -29,7 +29,7 @@ jobs:
           copilot -p "
           Review the Jekyll blog post located at:
 
-          _posts/2026-03-26-become-microsoft-mvp.md
+          _posts/2026-08-03-git-foundation-1.md
 
           Act as a senior technical editor reviewing this article before publication.
 
@@ -40,8 +40,7 @@ jobs:
           3. Grammar & Writing (score /10)
           4. Structure & Organization (score /10)
           5. SEO Friendliness (score /10)
-          6. Code Examples
-          7. Missing Explanations
+          6. Missing Explanations
           8. Beginner Friendliness
 
           Then generate a markdown report with the following sections:
@@ -59,8 +58,6 @@ jobs:
           ## Suggested Improvements
 
           ## Missing Topics
-
-          ## Diagram Suggestions
 
           ## Final Publishing Recommendation
 
